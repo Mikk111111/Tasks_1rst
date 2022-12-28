@@ -205,5 +205,7 @@ public class Main {
         else    System.out.println("ERROR in finding biggest6");
 
         System.out.println(biggest1+", "+biggest2+", "+biggest3+", "+biggest4+", "+biggest5+", "+biggest6);
+
+        //Additional testeris
     }
 }
